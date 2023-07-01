@@ -40,11 +40,8 @@ app can offer personalized exercise programs based on user goals, fitness level,
 </div>
 <div>
 <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.58.49.png">
-</div>
-<div>
-<img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.59.51.png">
+  <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.59.51.png">
   <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.59.57.png">
-
 </div>
 
 
