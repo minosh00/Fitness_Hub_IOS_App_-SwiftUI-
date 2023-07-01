@@ -17,91 +17,30 @@ app can offer personalized exercise programs based on user goals, fitness level,
 <div>
 <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.56.41.png">
   <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.57.16.png">
-
-</div>
-<div>
 <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.57.29.png">
   <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.58.59.png">
+</div>
 
-</div>
-<div>
-<img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.58.27.png">
-</div>
+
 <div>
 <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.59.13.png">
   <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.59.41.png">
+  <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.58.27.png">
+
 </div>
 <div>
 <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 21.00.36.png">
   <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 21.00.28.png">
+  <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 21.00.16.png">
+
 </div>
-<div>
-<img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 21.00.16.png">
-</div>
+
 <div>
 <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.58.49.png">
   <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.59.51.png">
   <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.59.57.png">
 </div>
 
-
-
-
-#### 08. Testing carried out
-
-e.g. The following classes implemented ui testing for the ``body fact calculate ``` and ```setting page```. 
-
-```
-    func testExample() throws {
-
-      
-        let app = XCUIApplication()
-                app.launch()
-            
-            
-          //  let app = XCUIApplication()
-            let tabBar = app.tabBars["Tab Bar"]
-            tabBar.buttons["Add Exercise"].tap()
-            tabBar.buttons["Body Fact"].tap()
-            tabBar.buttons["Settings"].tap()
-            
-            let darkModeSwitch = app.collectionViews/*@START_MENU_TOKEN@*/.switches["Dark Mode"]/*[[".cells.switches[\"Dark Mode\"]",".switches[\"Dark Mode\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/
-            darkModeSwitch.tap()
-            darkModeSwitch.tap()
-            darkModeSwitch.tap()
-                    
-                
-                                    
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
-        
-        
-        
-        
-        
-                    app.tabBars["Tab Bar"].buttons["Body Fact"].tap()
-            app/*@START_MENU_TOKEN@*/.buttons["Female"]/*[[".segmentedControls.buttons[\"Female\"]",".buttons[\"Female\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/.tap()
-            app.textFields["Age"].tap()
-
-            let weightKgTextField = app.textFields["Weight (kg)"]
-            weightKgTextField.tap()
-            weightKgTextField.tap()
-
-            let heightTextField = app.textFields["Height"]
-            heightTextField.tap()
-            heightTextField.tap()
-
-            let neckMeasurementTextField = app.textFields["Neck Measurement"]
-            neckMeasurementTextField.tap()
-            neckMeasurementTextField.tap()
-
-            let chestMeasurementTextField = app.textFields["Chest Measurement"]
-            chestMeasurementTextField.tap()
-            chestMeasurementTextField.tap()
-            app.buttons["Calculate"].tap()
-            app.buttons["Reset"].tap()
-
-    }  
-```
 
 
 
