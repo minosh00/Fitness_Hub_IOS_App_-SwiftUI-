@@ -19,23 +19,17 @@ app can offer personalized exercise programs based on user goals, fitness level,
   <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.57.16.png">
 <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.57.29.png">
   <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.58.59.png">
-</div>
-
-
-<div>
 <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.59.13.png">
   <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.59.41.png">
   <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.58.27.png">
 
 </div>
+
 <div>
 <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 21.00.36.png">
   <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 21.00.28.png">
   <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 21.00.16.png">
 
-</div>
-
-<div>
 <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.58.49.png">
   <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.59.51.png">
   <img width="314" alt="LaunchScreen" src="Resources/Screenshot 2023-06-16 at 20.59.57.png">
